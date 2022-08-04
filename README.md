@@ -1,2 +1,2 @@
 # Project3
-isimpltylearn 
+Configure Jenkins server as Ansible provisioning machine
